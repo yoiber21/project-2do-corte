@@ -20,7 +20,7 @@ El proyecto ya tiene datos precargados en la base de datos H2, por lo que no es 
 1. Clona el repositorio:
 
 ```bash
-git clone 
+git clone https://github.com/yoiber21/project-2do-corte.git 
 ```
 
 1. Importa el proyecto en tu IDE.
